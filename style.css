@@ -1,0 +1,39 @@
+body
+{
+	background-size: cover;
+}
+.heading {
+    width: 100%;
+    text-align: left;
+}
+.heading h3 {
+    display: inline;
+}
+.heading button {
+    float: right;
+    border: 1px solid blue;
+}
+#start ,#status, #restart
+{
+font-size: 22px;
+}
+.modal-dialog {
+	width: 60%;
+}
+.maker
+{
+    margin-left: 490px;
+    font-size: 45px;
+    bottom: 0;
+    position: fixed;
+    color: red;
+    font-family: 'Kalam', cursive;
+}
+#restart_button {
+    margin-top: 0.3cm;
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+#start {
+    margin-top: 0.2cm;
+}
